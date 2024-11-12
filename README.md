@@ -1,5 +1,5 @@
 # AnkiGenius - Flashcard Generator
-#### Video Demo: [URL HERE]
+#### Video Demo: https://youtu.be/mZ1bDeWnJvM?feature=shared
 #### Description:
 AnkiGenius is a web-based flashcard generator designed to make it easier to create Anki flashcards for studying. By leveraging Google’s Generative AI API, the app lets users generate both **basic** and **cloze** cards from prompts, saving time and making flashcard creation more efficient. Users simply input a prompt, and AnkiGenius generates a set of flashcards and offering an option to add them directly to an Anki deck. This project is built using JavaScript, with a core emphasis on integrating with Google Generative AI and Anki's API for seamless flashcard management.
 
