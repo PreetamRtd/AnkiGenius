@@ -4,5 +4,5 @@ A simple web app that generates Anki flashcards using Google Generative AI. Ente
 
 Usage:
 - Open the app in a browser (serve the `docs/` folder).
-- Enter a prompt and click "Generate Flashcards".
+- Enter a prompt and click "Generate Basic/Cloze Flashcards".
 
